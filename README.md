@@ -2,8 +2,14 @@
 Speech to speech translation from russian to english with voice cloning
 
 <details>
-  <summary><h5>Music Voice Separator</h5></summary>
-  
-[original](https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/assets/71093827/9e379394-520d-4a29-9e6a-78710d7682f1)
+  <summary><h4>Music Voice Separator</h4></summary>
 
+  <details>
+  <summary><h5>original 15 seconds audio</h5></summary>
+  
+  [original](https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/assets/71093827/9e379394-520d-4a29-9e6a-78710d7682f1)
+    </details>
+
+
+  
 </details>
