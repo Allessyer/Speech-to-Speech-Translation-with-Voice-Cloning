@@ -56,15 +56,5 @@ https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/ass
 
 
 
-https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/assets/71093827/ab41a6ae-5b88-4667-b21c-5567f3d4ccb6
-
-
-
-
-
-
-
-
-
 
 
