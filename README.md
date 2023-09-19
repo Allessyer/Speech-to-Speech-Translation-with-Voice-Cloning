@@ -64,9 +64,9 @@ https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/ass
   </details>  
 
   ## ASR и перевод
-  ASR модель: [whisper-medium](https://huggingface.co/openai/whisper-medium)
-  Translation модель: [Helsinki-NLP/opus-mt-ru-en](https://huggingface.co/Helsinki-NLP/opus-mt-ru-en)
-  TTS модель: [tortoise](https://github.com/neonbjb/tortoise-tts)
+  - ASR модель: [whisper-medium](https://huggingface.co/openai/whisper-medium)
+  - Translation модель: [Helsinki-NLP/opus-mt-ru-en](https://huggingface.co/Helsinki-NLP/opus-mt-ru-en)
+  - TTS модель: [tortoise](https://github.com/neonbjb/tortoise-tts)
   
 
 
