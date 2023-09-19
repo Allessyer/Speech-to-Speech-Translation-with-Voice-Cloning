@@ -66,7 +66,48 @@ https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/ass
   ## ASR и перевод
   - ASR модель: [whisper-medium](https://huggingface.co/openai/whisper-medium)
   - Translation модель: [Helsinki-NLP/opus-mt-ru-en](https://huggingface.co/Helsinki-NLP/opus-mt-ru-en)
-  - TTS модель: [tortoise](https://github.com/neonbjb/tortoise-tts)
+
+  ## TTS with voice cloning
+  
+  Лучшая TTS модель: [tortoise](https://github.com/neonbjb/tortoise-tts)
+
+  Три основные модели TTS и их результаты:
+
+  <details>
+  <summary><h4>original 7 seconds audio</h4></summary>
+
+https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/assets/71093827/c6e612e0-0430-4561-a49a-c8204f7942e4
+
+  </details>
+
+  <details>
+  <summary><h4>BARK</h4></summary>
+
+
+https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/assets/71093827/95fa7d5c-44c1-4011-bf82-db4822ca133c
+
+
+  </details>
+
+  
+  <details>
+  <summary><h4>RTVC</h4></summary>
+
+
+https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/assets/71093827/cc1d2f91-76b3-49c5-b925-fedf1caa7ef9
+
+
+  </details>
+  
+  <details>
+  <summary><h4>Tortoise</h4></summary>
+
+
+https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/assets/71093827/ae96d2d5-51c6-48e6-9a67-c133e07b878a
+
+
+  </details>
+  
   
 
 
