@@ -68,8 +68,6 @@ https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/ass
   - Translation модель: [Helsinki-NLP/opus-mt-ru-en](https://huggingface.co/Helsinki-NLP/opus-mt-ru-en)
 
   ## TTS with voice cloning
-  
-  Лучшая TTS модель: [tortoise](https://github.com/neonbjb/tortoise-tts)
 
   Три основные модели TTS и их результаты:
 
@@ -81,7 +79,7 @@ https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/ass
   </details>
 
   <details>
-  <summary><h4>BARK</h4></summary>
+  <summary><h4>[bark](https://github.com/serp-ai/bark-with-voice-clone)</h4></summary>
 
 
 https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/assets/71093827/95fa7d5c-44c1-4011-bf82-db4822ca133c
@@ -91,7 +89,7 @@ https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/ass
 
   
   <details>
-  <summary><h4>RTVC</h4></summary>
+  <summary><h4>[RTVC](https://github.com/CorentinJ/Real-Time-Voice-Cloning/tree/master/synthesizer)</h4></summary>
 
 
 https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/assets/71093827/cc1d2f91-76b3-49c5-b925-fedf1caa7ef9
@@ -100,7 +98,7 @@ https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/ass
   </details>
   
   <details>
-  <summary><h4>Tortoise</h4></summary>
+  <summary><h4>[tortoise](https://github.com/neonbjb/tortoise-tts)</h4></summary>
 
 
 https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/assets/71093827/ae96d2d5-51c6-48e6-9a67-c133e07b878a
