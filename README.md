@@ -1,8 +1,22 @@
 # Speech-to-Speech-Translation-with-Voice-Cloning
-Speech to speech translation from russian to english with voice cloning
+## Описание проблемы
+Необходимо реализовать перевод русской речи в английскую с учетом голоса диктора.
 
-<details>
-  <summary><h3>Music Voice Separator</h4></summary>
+Данная задача разбивается на несколько подзадач:
+1. аудиозапись --> русская речь + фон
+2. русская речь --> русский текст
+3. русский текст --> английский текст
+4. английский текст + русская речь --> английская речь
+
+## Audio Preprocessing
+В качестве препросессинга до подачи в ASR модель для решения проблемы галлюцинирования модели Whisper было сделано следующее:
+1. Music Voice Separation - разделение аудиозаписи на отдельно дорожку речи и фона ([voice-remover](https://github.com/tsurumeso/vocal-remover))
+2. Удаление тишины (ffmpeg)
+3. Нормализация аудио по уровню громкости ([ffmpeg-normalize](https://github.com/slhck/ffmpeg-normalize))
+4. Voice Activity Detection ([silero](https://github.com/snakers4/silero-vad))
+
+Для разделения аудио на речь и фон, были рассмотрены три библиотеки: voice-remover, spleeter, librosa.
+Ниже приведены результаты работы каждой из библиотек.
 
   <details>
   <summary><h4>original 15 seconds audio</h4></summary>
@@ -48,9 +62,12 @@ https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/ass
 
   </details>
   </details>  
+
+  ## ASR и перевод
+  ASR модель: [whisper-medium](https://huggingface.co/openai/whisper-medium)
+  Translation модель: [Helsinki-NLP/opus-mt-ru-en](https://huggingface.co/Helsinki-NLP/opus-mt-ru-en)
+  TTS модель: [tortoise](https://github.com/neonbjb/tortoise-tts)
   
-  
-</details>
 
 
 
