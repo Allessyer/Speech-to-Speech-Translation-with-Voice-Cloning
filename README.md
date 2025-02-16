@@ -105,6 +105,14 @@ https://github.com/Allessyer/Speech-to-Speech-Translation-with-Voice-Cloning/ass
 
 
   </details>
+
+
+
+## Google Colab Notebook
+
+You can access and run the project in Google Colab by clicking the badge below:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1PGA0Qqa4rJiJGa8dARLol_Dvg9hlR_aH/view?usp=sharing)
   
   
 
